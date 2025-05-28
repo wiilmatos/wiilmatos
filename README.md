@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wiilmatos&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/wiilmatos?style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&link=https://linkedin.com/in/willian-matos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/willian-matos)  
 
 ---
 
