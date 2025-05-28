@@ -26,10 +26,13 @@ Currently working in the **Business Intelligence / Management Information** team
 
 ### 🔧 **Skills & Tools**
 
+### 🔧 **Skills & Tools**
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![SAS](https://img.shields.io/badge/SAS-0066A1?style=for-the-badge&logo=sas&logoColor=white)  
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0064A5?style=for-the-badge&logo=databricks&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0064A5?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
