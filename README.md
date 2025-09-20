@@ -23,11 +23,14 @@ Currently working in the **Business Intelligence / Management Information** team
 ✅ Developing management reports & dashboards
 
 ---
-
 ### 🔧 **Skills & Tools**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0064A5?style=for-the-badge&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SAS](https://img.shields.io/badge/SAS-231F20?style=for-the-badge&logo=sas&logoColor=white) 
-  
+<p align="center">
+  <img src="https://img.icons8.com/color/50/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
+  <img src="https://img.icons8.com/color/50/power-bi.png" width="50" height="50" alt="Power BI" />
+  <img src="https://img.icons8.com/color/50/python.png" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50" alt="SQL Server" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS" />
+</p>
   
  
 
