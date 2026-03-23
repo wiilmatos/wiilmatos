@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Willian Matos | Hi, I’m Willian Matos
 
+![Status](https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=flat-square&logo=linkedin)  
 ![Profile Views](https://komarev.com/ghpvc/?username=wiilmatos&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/wiilmatos?style=social)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/willian-matos)  
+
 
 ---
 
